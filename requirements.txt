@@ -1,6 +1,6 @@
 alembic==1.16.2
 catboost==1.2.8
-causalml==0.14.1
+causalml==0.15.5
 cloudpickle==3.0.0
 colorlog==6.9.0
 dill==0.3.8
@@ -9,14 +9,16 @@ graphviz==0.20.1
 lightgbm==4.3.0
 matplotlib==3.10.3
 numba==0.64.0
-numpy==2.2.6
+numpy==1.23.5
 optuna==4.4.0
 pandas==2.2.1
 plotly==5.20.0
 scikit-learn==1.6.1
 scikit-uplift==0.5.1
-scipy==1.15.2
+scipy==1.10.1
 seaborn==0.13.2
 shap==0.45.0
 statsmodels==0.14.1
 xgboost==2.0.3
+pathos==0.2.9
+pydotplus==2.0.2
